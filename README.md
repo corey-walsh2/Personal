@@ -20,7 +20,6 @@
     <li>Calculus I</li> 
 </ul>
 
-<BR>
 <p>Experienced in:</p>
 <ul>
   <li>Linux</li>
