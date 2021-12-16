@@ -1,7 +1,8 @@
-<p align="center">
+
 # Hello.
 ## Im Corey. I'm an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.
 
+<p align="center">
 Classes taken:
 - IT
 - Data structures and algorithms
