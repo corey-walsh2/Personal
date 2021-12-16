@@ -17,7 +17,8 @@
     <li>Machine Organ & Assembly Prog
     <li>Introduction to Database
     <li>Discrete Structures
-    <li>Calculus I
+    <li>Calculus I <BR>
+</ul>
 
 <BR>
 <p>Experienced in:</p>
