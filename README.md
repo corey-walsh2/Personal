@@ -1,4 +1,4 @@
-ul {
+.ul {
     text-align: center;
     list-style-position: inside;
 }
@@ -18,8 +18,8 @@ Im Corey. I'm an undergrad student at the University of Scranton pursuing my bac
   <li>Discrete Structures
 </ul>
 
-<p align="right">Experienced in:</p>
-<ul align="right">
+<p>Experienced in:</p>
+<ul>
   <li>Linux
   <li>HTML
   <li>Javascript
