@@ -19,9 +19,9 @@
     <li>System Integration Architecture</li>
     <li>Computer Networks</li>
     <li>Web Programming</li>
-    <li>Data Structures and Algorithms</li>
     <li>Computer Science I</li>
     <li>Computer Science II</li>
+    <li>Data Structures and Algorithms</li>
     <li>Machine Organ & Assembly Prog</li>
     <li>Introduction to Database</li>
     <li>Discrete Structures</li>
