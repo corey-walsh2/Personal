@@ -4,31 +4,31 @@
 
 <p>Courses taken:</p>
 <ul>
-    <li>Human-Computer Interaction
-    <li>System Administration
-    <li>Integrative Programming
-    <li>Fundamentals Information Management
-    <li>System Integration Architecture
-    <li>Computer Networks
-    <li>Web Programming
-    <li>Data Structures and Algorithms
-    <li>Computer Science I
-    <li>Computer Science II
-    <li>Machine Organ & Assembly Prog
-    <li>Introduction to Database
-    <li>Discrete Structures
-    <li>Calculus I <BR>
+    <li>Human-Computer Interaction</li>
+    <li>System Administration</li>
+    <li>Integrative Programming</li>
+    <li>Fundamentals Information Management</li>
+    <li>System Integration Architecture</li>
+    <li>Computer Networks</li>
+    <li>Web Programming</li>
+    <li>Data Structures and Algorithms</li>
+    <li>Computer Science I</li>
+    <li>Computer Science II</li>
+    <li>Machine Organ & Assembly Prog</li>
+    <li>Introduction to Database</li>
+    <li>Discrete Structures</li>
+    <li>Calculus I</li> 
 </ul>
 
 <BR>
 <p>Experienced in:</p>
 <ul>
-  <li>Linux
-  <li>HTML
-  <li>Javascript
-  <li>PostgreSQL
-  <li>MariaDB
-  <li>Java
-  <li>C
-  <li>GCP
+  <li>Linux</li>
+  <li>HTML</li>
+  <li>Javascript</li>
+  <li>PostgreSQL</li>
+  <li>MariaDB</li>
+  <li>Java</li>
+  <li>C</li>
+  <li>GCP</li>
 </ul>
