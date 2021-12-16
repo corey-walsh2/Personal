@@ -27,5 +27,3 @@
     <li>Discrete Structures</li>
     <li>Calculus I</li> 
 </ul>
-<BR>
-<p align="center">I'm currently seeking an internship. Contact me at: corey.walsh2@scranton.edu or coreywalsh99@gmail.com</p>
