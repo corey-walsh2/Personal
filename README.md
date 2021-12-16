@@ -5,7 +5,7 @@ Im Corey. I'm an undergrad student at the University of Scranton pursuing my bac
 
 <hr>    
 <p>Classes taken:</p>
-<ul>
+<ul align="center">
   <li>IT
   <li>Data structures and algorithms
   <li>Computer Science I
@@ -13,13 +13,14 @@ Im Corey. I'm an undergrad student at the University of Scranton pursuing my bac
   <li>Discrete Structures
 </ul>
 
-Experienced in:
-- Linux
-- HTML
-- Javascript
-- PostgreSQL
-- MariaDB
-- Java
-- C
-- GCP
-
+<p>Experienced in:</p>
+<ul align="center">
+  <li>Linux
+  <li>HTML
+  <li>Javascript
+  <li>PostgreSQL
+  <li>MariaDB
+  <li>Java
+  <li>C
+  <li>GCP
+</ul>
