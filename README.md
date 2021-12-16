@@ -1,4 +1,4 @@
-## Welcome to my resume!
+
 
 Classes taken:
 - Data structures and algorithms
