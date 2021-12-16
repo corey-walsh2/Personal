@@ -1,6 +1,14 @@
-<p align="center">Hello.</p>
-<p align="center">I'm Corey, an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.</p>
-<hr>
+<p>Experienced in:</p>
+<ul>
+  <li>Linux</li>
+  <li>HTML</li>
+  <li>Javascript</li>
+  <li>PostgreSQL</li>
+  <li>MariaDB</li>
+  <li>Java</li>
+  <li>C</li>
+  <li>GCP</li>
+</ul>
 
 <p>Courses taken:</p>
 <ul>
@@ -20,14 +28,5 @@
     <li>Calculus I</li> 
 </ul>
 
-<p>Experienced in:</p>
-<ul>
-  <li>Linux</li>
-  <li>HTML</li>
-  <li>Javascript</li>
-  <li>PostgreSQL</li>
-  <li>MariaDB</li>
-  <li>Java</li>
-  <li>C</li>
-  <li>GCP</li>
-</ul>
+<a>I'm currently seeking an internship.</a>
+<a>Contact me at: corey.walsh2@scranton.edu or coreywalsh99@gmail.com</a>
