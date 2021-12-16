@@ -1,6 +1,6 @@
 <p align="center">Hello.</p>
-<p>Im Corey.</p>
-<p>I'm an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.</p>
+<p align="center">Im Corey.</p>
+<p align="center">I'm an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.</p>
 <hr>
 
 <p>Classes taken:</p>
