@@ -1,14 +1,8 @@
-.ul {
-    text-align: center;
-    list-style-position: inside;
-}
-
-<p align="center">
-Hello.
-Im Corey. I'm an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.
+<p align="center">Hello.</p>
+<p>Im Corey. I'm an undergrad student at the University of Scranton pursuing my bachelors degree in IT. I'm currently seeking an internship.
 </p>
+<hr>
 
-<hr>    
 <p>Classes taken:</p>
 <ul>
   <li>IT
