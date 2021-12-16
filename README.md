@@ -18,8 +18,8 @@
     <li>Introduction to Database
     <li>Discrete Structures
     <li>Calculus I
-</ul>
 
+<BR>
 <p>Experienced in:</p>
 <ul>
   <li>Linux
