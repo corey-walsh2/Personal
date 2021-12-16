@@ -28,5 +28,5 @@
     <li>Calculus I</li> 
 </ul>
 
-<a>I'm currently seeking an internship.</a>
-<a>Contact me at: corey.walsh2@scranton.edu or coreywalsh99@gmail.com</a>
+<p>I'm currently seeking an internship.</p>
+<p>Contact me at: corey.walsh2@scranton.edu or coreywalsh99@gmail.com</p>
