@@ -9,7 +9,7 @@ Im Corey. I'm an undergrad student at the University of Scranton pursuing my bac
 </p>
 
 <hr>    
-<p align="center">Classes taken:</p>
+<p>Classes taken:</p>
 <ul>
   <li>IT
   <li>Data structures and algorithms
@@ -18,8 +18,8 @@ Im Corey. I'm an undergrad student at the University of Scranton pursuing my bac
   <li>Discrete Structures
 </ul>
 
-<p align="center">Experienced in:</p>
-<ul>
+<p align="right">Experienced in:</p>
+<ul align="right">
   <li>Linux
   <li>HTML
   <li>Javascript
