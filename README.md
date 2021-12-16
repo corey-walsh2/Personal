@@ -1,5 +1,6 @@
 
 Classes taken:
+
 - Data structures and algorithms
 - Computer Science I
 - Computer Science 2
@@ -8,9 +9,9 @@ Classes taken:
 Experienced in:
 - Linux
 - HTML
-- Java
 - Javascript
+- PostgreSQL
+- MariaDB
+- Java
 - C
-- Postgres
-- MySQL
 - GCP
