@@ -28,5 +28,4 @@
     <li>Calculus I</li> 
 </ul>
 
-<p>Some projects I've worked on:</p>
-<a href="https://github.com/corey-walsh2/Projects">Click Here</a>
+<p>Some projects I've worked on: <a href="https://github.com/corey-walsh2/Projects">Click Here</a></p>
