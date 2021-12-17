@@ -29,3 +29,12 @@
 </ul>
 
 <p>Some projects I've worked on: <a href="https://github.com/corey-walsh2/Projects">Click Here</a></p>
+<ul>
+    <li>HTML documents such as experimenting with hyperlinks, tables, lists, images, etc.</li>
+    <li>Scripts with JavaScript that write HTML.</li>
+    <li>SQL scripts that create databases, users, and grant permissions.</li>
+    <li>SQL scripts for simple queries.</li>
+    <li>Fundamental shell/bash scripts</li>
+    <li>C programs to do various tasks including a job scheduler, sorter, etc.</li>
+    <li>Java programs that make use of different data structures and algorithms.</li>
+</ul>
